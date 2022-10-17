@@ -29,7 +29,7 @@ changelog:
 
 nfpms:
   - maintainer: Home Assistant <hello@home-assistant.io>
-    description: Home Assistant OS Agent
+    description: Home Assistant OS Agents
     homepage: https://www.home-assistant.io
     license: Apache 2.0
     section: default
